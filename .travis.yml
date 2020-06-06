@@ -1,6 +1,5 @@
 language: cpp
-os:
-  - osx
+
 jobs:
   include:
   - name: "all projects"
